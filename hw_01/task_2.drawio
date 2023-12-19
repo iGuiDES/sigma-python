@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2023-12-19T11:32:57.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="6yf9p6mJ8jwxqa07vRQg" version="22.1.11" type="device">
+  <diagram name="Page-1" id="ylkDOZsanTrgz_iz2Aqw">
+    <mxGraphModel dx="1556" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wlOGLorBwKmZKCbEeGSE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="285" y="159" width="600" height="591" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mfw4JAerFcG8sjm6Lxbl-2" target="qDykL3kI79t8NBIaz4Cl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfw4JAerFcG8sjm6Lxbl-2" value="Старт програми" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="525" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfw4JAerFcG8sjm6Lxbl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mfw4JAerFcG8sjm6Lxbl-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfw4JAerFcG8sjm6Lxbl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mfw4JAerFcG8sjm6Lxbl-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfw4JAerFcG8sjm6Lxbl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfw4JAerFcG8sjm6Lxbl-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="747.5" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDykL3kI79t8NBIaz4Cl-2" target="qDykL3kI79t8NBIaz4Cl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-2" value="Створення змінних" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="290" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDykL3kI79t8NBIaz4Cl-3" target="qDykL3kI79t8NBIaz4Cl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-3" value="Обробка змінних, формування виводу для користувача" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="501.25" y="400" width="167.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDykL3kI79t8NBIaz4Cl-4" target="qDykL3kI79t8NBIaz4Cl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-4" value="Вивід інформації" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="502" y="500" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDykL3kI79t8NBIaz4Cl-5" value="Закінчення програми" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="525" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

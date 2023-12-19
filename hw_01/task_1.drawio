@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2023-12-19T11:33:15.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="tVT2WD5eAeFgd2W5SyNq" version="22.1.11" type="device">
+  <diagram name="Page-1" id="PECOelnN01Z-iDRctLTG">
+    <mxGraphModel dx="1556" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JMPsM5WextyuFn9VPApL-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="410" y="60" width="330" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JMPsM5WextyuFn9VPApL-1" target="gGB5mrhnddvljEf75CT5-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMPsM5WextyuFn9VPApL-1" value="Старт програми" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="515" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gGB5mrhnddvljEf75CT5-1" target="gGB5mrhnddvljEf75CT5-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-1" value="Отримання вхідних даних" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="225" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gGB5mrhnddvljEf75CT5-2" target="gGB5mrhnddvljEf75CT5-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-2" value="Обробка" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="515" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gGB5mrhnddvljEf75CT5-3" target="gGB5mrhnddvljEf75CT5-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-3" value="Виведення результату" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="515" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGB5mrhnddvljEf75CT5-4" value="Кінець програми" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="515" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
