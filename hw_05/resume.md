@@ -1,0 +1,13 @@
+# Олександр Яценко
+
+**Email**: iosiguides@gmail.com
+
+## Освіта
+- Сарненський педагогічний коледж
+- Sigma
+
+## Навички
+- Python
+- HTML
+- CSS
+- JavaScript

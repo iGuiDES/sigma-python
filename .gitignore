@@ -4,3 +4,4 @@
 .venv
 venv
 lessons
+__pycache__
