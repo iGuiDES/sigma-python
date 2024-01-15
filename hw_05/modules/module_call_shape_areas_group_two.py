@@ -1,8 +1,6 @@
 def call_shape_areas_two(
-        module_name1: classmethod,
-        module_name_2: classmethod,
-        module_name_3: classmethod
-        ) -> None:
+        module_name1, module_name_2, module_name_3
+):
     print(f"\n\n{'*' * 15} Група вимог II - Shape Area {'*' * 15}")
     circle = module_name1(5)
     rectangle = module_name_2(10, 4)

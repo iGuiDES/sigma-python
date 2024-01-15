@@ -1,4 +1,4 @@
-def call_create_cv_person(module_name: classmethod) -> None:
+def call_create_cv_person(module_name):
     print(f"\n\n{'*' * 15} Група вимог II - CV for All {'*' * 15}")
     person_info = {'name': 'Яценко Олександр', 'email': 'iosiguides@gmail.com'}
     education = ['Сарненський педагогічний коледж', 'Sigma']

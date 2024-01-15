@@ -1,4 +1,4 @@
-def call_cv_create(module_name: classmethod) -> None:
+def call_cv_create(module_name):
     print(f"\n\n{'*' * 15} Група вимог I - CV {'*' * 15}")
     personal_info = {
         "name": "Олександр Яценко",

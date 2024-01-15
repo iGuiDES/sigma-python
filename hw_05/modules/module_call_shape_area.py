@@ -1,4 +1,4 @@
-def call_shape_area(module_name: classmethod) -> None:
+def call_shape_area(module_name):
 
     print(f"\n\n{'*' * 15} Група вимог I - Area {'*' * 15}")
     calculator = module_name()

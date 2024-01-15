@@ -1,4 +1,4 @@
-def call_library(module_name: classmethod) -> None:
+def call_library(module_name):
     print(f"\n\n{'*' * 15} Група вимог III - Library {'*' * 15}")
 
     library = module_name()
